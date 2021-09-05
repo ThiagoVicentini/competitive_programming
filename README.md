@@ -11,6 +11,7 @@ Projects for GEMA - Grupo de estudo para maratona de programação (Group of stu
 * Fourth Week - Fourth week problems
 
 ## Neps Academy
+### ***Warning: The site of Neps Academy has been updated and, therefore, the links may be broken or inconsistent.***
 Community focused on studying for programming competitions in Brazil
 
 ### Links for the description of the problems:
